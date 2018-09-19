@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffieApp</string>
+    <string name="textview_ncafes">Nº Cafes=</string>
+    <string name="Preciototal">Precio total =</string>
+</resources>
